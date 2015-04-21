@@ -8,6 +8,7 @@ docker_install_dependencies() {
         perl-Test-LongString perl-Time-ParseDate perl-YAML-Syck \
         perl-Time-Piece  perl-CGI perl-Test-Deep perl-Module-Build \
         perl-Net-DNS perl-Pod-POM perl-Test-MockObject perl-XMLRPC-Lite \
-        perl-SOAP-Lite perl-Devel-Cover perl-Test-Exception
+        perl-SOAP-Lite perl-Devel-Cover perl-Test-Exception \
+        perl-File-Fetch
 }
 
